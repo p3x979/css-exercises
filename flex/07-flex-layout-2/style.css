@@ -31,10 +31,6 @@ body {
   background: royalblue;
   flex-shrink: 0;
   padding: 16px;
-  /* display: flex;
-  flex: 0 0 300px;
-  justify-content: flex-start;
-  font-size: 24px; */
 }
 
 .outer-container {
